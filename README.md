@@ -6,7 +6,6 @@ Advent of Code is an annual coding event that features a series of programming c
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Structure](#structure)
 - [Getting Started](#getting-started)
 - [License](#license)
 
@@ -41,4 +40,4 @@ To get started with this repository, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE).
